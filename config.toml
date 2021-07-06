@@ -260,7 +260,7 @@ theme = "elate"
         ["icon-home", "HangZhou · China"],
         ["icon-qq", "605604615"],
         ["icon-envelope", "<a href='mailto:incoder.xu@gmail.com'>incoder.xu@gmail.com</a>"],
-        ["icon-globe",  "https://incoder.org"]
+        ["icon-globe", '<a href="https://incoder.org" target="_blank">BladeCode</a>']
       ]
 
 
